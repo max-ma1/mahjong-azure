@@ -401,7 +401,7 @@ function ms_not_installed() {
 
 	wp_load_translations_early();
 
-	$title = __( 'Error establishing a database connection' );
+	$title = __( 'Error establishing a database connection2222222' );
 
 	$msg  = '<h1>' . $title . '</h1>';
 	$msg .= '<p>' . __( 'If your site does not display, please contact the owner of this network.' ) . '';
