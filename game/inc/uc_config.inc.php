@@ -28,8 +28,11 @@ define('UC_CONNECT', 'mysql');
 define('UC_DBHOST', 'mahjongsite.mysql.database.azure.com'); //max ma testing
 
 //define('UC_DBHOST', 'localhost'); 
-define('UC_DBUSER', 'mahjong_bbsadmin');
-define('UC_DBPW', 'mahjong@bbs@51');
+//define('UC_DBUSER', 'mahjong_bbsadmin');
+define('UC_DBUSER', 'max@mahjongsite');//max ma testing
+
+//define('UC_DBPW', 'mahjong@bbs@51');
+define('UC_DBPW', '400@University');//max ma testing
 define('UC_DBNAME', 'mahjong_bbs');
 define('UC_DBCHARSET', 'utf8');
 define('UC_DBTABLEPRE', '`mahjong_bbs`.pre_ucenter_');

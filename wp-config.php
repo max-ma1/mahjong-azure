@@ -18,11 +18,11 @@
 define('DB_NAME', 'mahjong_wpmahjong');
 
 /** MySQL 数据库用户名 */
-define('DB_USER', 'mahjong_wpadmin');
-
+//define('DB_USER', 'mahjong_wpadmin');
+define('DB_USER', 'max@mahjongsite'); // MAX MA TESTING
 /** MySQL 数据库密码 */
-define('DB_PASSWORD', 'rW~k~A*}x(Lf');
-
+//define('DB_PASSWORD', 'rW~k~A*}x(Lf');
+define('DB_PASSWORD', '400@University');// MAX MA TESTING
 /** MySQL 主机 */
 define('DB_HOST', 'mahjongsite.mysql.database.azure.com');  // MAX MA TESTING
 //define('DB_HOST', 'mahjong-ca.org');

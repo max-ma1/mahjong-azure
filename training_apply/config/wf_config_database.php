@@ -26,10 +26,11 @@ if (WF_REMOTE_DATABASE) {
     $WF_CONFIG['db_host'] = 'mahjongsite.mysql.database.azure.com'; //max ma test
    // $WF_CONFIG['db_host'] = 'localhost';
 
-    $WF_CONFIG['db_user'] = 'mahjong_51max';
-
-    $WF_CONFIG['db_pass'] = 'E7Tlb@?GQK6Q';
-
+    //$WF_CONFIG['db_user'] = 'mahjong_51max';
+     $WF_CONFIG['db_user'] = ' max@mahjongsite';//max ma test
+   
+    //$WF_CONFIG['db_pass'] = 'E7Tlb@?GQK6Q';
+     $WF_CONFIG['db_pass'] = '400@University';//max ma test
     $WF_CONFIG['db_name'] = 'mahjong_baoming';
 
 } else {
