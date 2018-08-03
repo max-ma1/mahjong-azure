@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Name>PHPWebProject0</Name>
-    <ProjectGuid>{a29c3ad3-a617-47b5-a5db-0679000e7623}</ProjectGuid>
+    <ProjectGuid>{d30bae4f-74ed-42d9-ad98-36de74511bf3}</ProjectGuid>
     <RootNamespace>
     </RootNamespace>
     <OutputType>Library</OutputType>
@@ -14317,6 +14317,7 @@
     <Folder Include="wp-admin" />
     <Folder Include="wp-content\galleries\%25e5%259b%25be%25e7%2589%2587" />
     <Folder Include="wp-content\galleries" />
+    <Folder Include="wp-content\galleries\图片\" />
     <Folder Include="wp-content\languages\themes" />
     <Folder Include="wp-content\languages" />
     <Folder Include="wp-content\plugins\akismet\img" />
