@@ -3374,7 +3374,7 @@ function dead_db() {
 
 </head>
 <body>
-	<h1><?php _e( 'Error establishing a database connection' );  ?>11111</h1>
+	<h1><?php _e( 'Error establishing a database connection' );  ?></h1>
 </body>
 </html>
 <?php
