@@ -141,7 +141,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 <br />
 
-<a class="download" target="_blank" href="http://www.mahjong-org.azurewebsites.net/mje0906.pdf">Download《International Rules》</a>
+<a class="download" target="_blank" href="http://www.mahjong-ca.azurewebsites.net/mje0906.pdf">Download《International Rules》</a>
 
    <!--block1 end-->
 
@@ -179,7 +179,7 @@ Steel 以北： 8400 Woodbine Ave,Markham,ON,L3R 4X7</div></li>
 
 
 
-	 <li><div class="add2"><a href="http://www.mahjong-org.azurewebsites.net/calendar.html" target="_blank" style="background: none repeat scroll 0 0 #F25000; border-radius: 8px 8px 8px 8px; padding: 6px 20px; color: #FFFFFF; text-decoration: none;">Check Training Schedule</a></div></li>
+	 <li><div class="add2"><a href="http://www.mahjong-ca.azurewebsites.net/calendar.html" target="_blank" style="background: none repeat scroll 0 0 #F25000; border-radius: 8px 8px 8px 8px; padding: 6px 20px; color: #FFFFFF; text-decoration: none;">Check Training Schedule</a></div></li>
 
 
 

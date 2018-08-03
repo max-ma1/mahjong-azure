@@ -2,7 +2,7 @@
 /**
  * The Template for displaying all single posts.
  *
- * @package mahjong-org.azurewebsites.net
+ * @package mahjong-ca.azurewebsites.net
  * @subpackage mahjong
  * @since Mahjong-ca 1.0
  */
