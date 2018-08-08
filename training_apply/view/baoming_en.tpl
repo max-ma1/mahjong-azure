@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -56,7 +56,7 @@
 
     International Mahjong (“IMJ”) is a type of mahjong game, which follows the written rule of "International Mahjong Rules" (IMJ Rules) set by World Mahjong Organization in 2006. The game is nowadays widely played by people not only in China, but also in Europe and North America, and has become more and more popular and fashionable.
 <br />
-<a class="download" target="_blank" href="http://www.mahjong-org.azurewebsites.net/mje0906.pdf">Download《International Rules》</a>
+<a class="download" target="_blank" href="http://www.mahjong-ca.azurewebsites.net/mje0906.pdf">Download《International Rules》</a>
    <!--block1 end-->
    </div>
 
@@ -75,7 +75,7 @@
      <li style="display:none;"><span>地点</span><div class="add">Steel 以南： 519 church St. Toronto,ON.M4Y 2C9<br />
 Steel 以北： 8400 Woodbine Ave,Markham,ON,L3R 4X7</div></li>
 
-	 <li><div class="add2"><a href="http://www.mahjong-org.azurewebsites.net/calendar.html" target="_blank" style="background: none repeat scroll 0 0 #F25000; border-radius: 8px 8px 8px 8px; padding: 6px 20px; color: #FFFFFF; text-decoration: none;">Check Training Schedule</a></div></li>
+	 <li><div class="add2"><a href="http://www.mahjong-ca.azurewebsites.net/calendar.html" target="_blank" style="background: none repeat scroll 0 0 #F25000; border-radius: 8px 8px 8px 8px; padding: 6px 20px; color: #FFFFFF; text-decoration: none;">Check Training Schedule</a></div></li>
 
      <li><span style="width: 160px;">Enroll Online</span><em style="font-size: 14px; font-family: Tahoma, Geneva, sans-serif;">Fill out the Applicantion form for free mahjong training program</em></li>
 

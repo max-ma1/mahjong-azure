@@ -46,7 +46,7 @@
 
                 
 
-                <li><a href="http://www.mahjong-org.azurewebsites.net/bbs/member.php?mod=register" target="_blank" class="reg">注册 Register</a></li>
+                <li><a href="http://www.mahjong-ca.azurewebsites.net/bbs/member.php?mod=register" target="_blank" class="reg">注册 Register</a></li>
 
             </ul>
 

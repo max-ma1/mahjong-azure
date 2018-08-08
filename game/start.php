@@ -102,7 +102,7 @@ $op_api = 'friends';
 
 $code_api = md5($user_id . $op_api . $timestamp . KEY);
 
-$url_api = "http://www.mahjong-ca.org/game/api.php?uid={$user_id}&op={$op_api}&ts={$timestamp}&code={$code_api}";
+$url_api = "http://www.mahjong-ca.azurewebsites.net/game/api.php?uid={$user_id}&op={$op_api}&ts={$timestamp}&code={$code_api}";
 
 //echo $url_api;
 

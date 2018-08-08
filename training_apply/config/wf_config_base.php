@@ -22,7 +22,7 @@ $WF_CONFIG['default_time_zone'] = 'America/Toronto'; //默认时区，参考 <ht
 
 
 
-$WF_CONFIG['site_url'] = 'http://mahjong-org.azurewebsites.net/training_apply';
+$WF_CONFIG['site_url'] = 'http://mahjong-ca.azurewebsites.net/training_apply';
 
 
 

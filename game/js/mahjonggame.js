@@ -41,8 +41,8 @@ function chooseLanguage(lang_code) {
 function detectDomain() {
     var curr_domain = document.domain;
 
-    if ( curr_domain == 'mahjong-ca.org' ) {
-        window.location.href = 'http://www.mahjong-ca.org/game/';
+    if ( curr_domain == 'mahjong-ca.azurewebsites.net' ) {
+        window.location.href = 'http://www.mahjong-ca.azurewebsites.net/game/';
     }
 }
 

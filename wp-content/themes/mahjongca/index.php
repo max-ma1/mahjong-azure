@@ -4,7 +4,7 @@
 
  * The main template file.
 
- * @package mahjong-org.azurewebsites.net
+ * @package mahjong-ca.azurewebsites.net
 
  * @subpackage mahjong
 
@@ -174,7 +174,7 @@ get_header(); ?>
 
       <ul>
 
-       <li class="li1"><a href="http://www.mahjong-org.azurewebsites.net/game/index.php?lang=zh" target="_blank" title="线上麻将游戏">线上游戏</a></li>
+       <li class="li1"><a href="http://www.mahjong-ca.azurewebsites.net/game/index.php?lang=zh" target="_blank" title="线上麻将游戏">线上游戏</a></li>
 
        <li class="li2"><a href="/category/rules">规则</a></li>
 

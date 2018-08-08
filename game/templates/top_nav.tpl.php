@@ -4,9 +4,9 @@
 
     <div class="rightbox">
 
-        <a href="http://www.mahjong-org.azurewebsites.net/"><?php echo $l['official_website']; ?></a> |
+        <a href="http://www.mahjong-ca.azurewebsites.net/"><?php echo $l['official_website']; ?></a> |
 
-        <a href="http://www.mahjong-org.azurewebsites.net/bbs/forum.php"><?php echo $l['official_bbs']; ?></a> |
+        <a href="http://www.mahjong-ca.azurewebsites.net/bbs/forum.php"><?php echo $l['official_bbs']; ?></a> |
 
         ( <a href="index.php?lang=zh">中文版</a> | <a href="index.php?lang=en">English</a> )
 

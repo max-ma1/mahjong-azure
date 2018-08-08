@@ -2,7 +2,7 @@
 /**
  * The template for displaying all pages.
  *
- * @package mahjong-org.azurewebsites.net
+ * @package mahjong-ca.azurewebsites.net
  * @subpackage mahjong
  * @since Mahjong-ca 1.0
  */

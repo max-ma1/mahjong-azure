@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying the footer.
- * @package mahjong-org.azurewebsites.net
+ * @package mahjong-ca.azurewebsites.net
  * @subpackage mahjong
  * @since Mahjong-ca 1.0
  */
@@ -22,7 +22,7 @@
  <div class="footer">
   <div class="wrap">
   <p>加拿大国标麻将协会官方网站  版权所有 &copy; 加拿大国标麻将协会</p>
-  <p>E-mail: <a href="mailto:info@mahjong-org.azurewebsites.net">info@mahjong-org.azurewebsites.net</a></p>
+  <p>E-mail: <a href="mailto:info@mahjong-ca.azurewebsites.net">info@mahjong-ca.azurewebsites.net</a></p>
   </div>
  <!--footer end-->
  </div>

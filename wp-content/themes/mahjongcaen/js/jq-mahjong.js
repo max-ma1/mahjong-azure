@@ -1,6 +1,6 @@
 /*
- * Script for mahjong-org.azurewebsites.net
- * http://mahjong-org.azurewebsites.net/
+ * Script for mahjong-ca.azurewebsites.net
+ * http://mahjong-ca.azurewebsites.net/
  *
  */
 

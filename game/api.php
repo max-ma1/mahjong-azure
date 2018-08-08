@@ -120,7 +120,7 @@ if ( $valid_code && $valid_timestamp ) {
 
         case 'avatar':
 
-            $avatar_url = "http://www.mahjong-org.azurewebsites.net/bbs/uc_server/avatar.php?uid={$uid}&size=small";
+            $avatar_url = "http://www.mahjong-ca.azurewebsites.net/bbs/uc_server/avatar.php?uid={$uid}&size=small";
 
 
 

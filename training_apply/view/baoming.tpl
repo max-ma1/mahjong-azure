@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -75,7 +75,7 @@
      <li style="display:none;"><span>地点</span><div class="add">Steel 以南： 519 church St. Toronto,ON.M4Y 2C9<br />
 Steel 以北： 8400 Woodbine Ave,Markham,ON,L3R 4X7</div></li>
 
-	 <li><div class="add2"><a href="http://www.mahjong-org.azurewebsites.net/calendar.html" target="_blank" style="background: none repeat scroll 0 0 #F25000; border-radius: 8px 8px 8px 8px; padding: 6px 20px; color: #FFFFFF; text-decoration: none;">点击查看培训日程表</a></div></li>
+	 <li><div class="add2"><a href="http://www.mahjong-ca.azurewebsites.net/calendar.html" target="_blank" style="background: none repeat scroll 0 0 #F25000; border-radius: 8px 8px 8px 8px; padding: 6px 20px; color: #FFFFFF; text-decoration: none;">点击查看培训日程表</a></div></li>
 
      <li><span>报名方式</span>填写本页面的报名表，提交即可。</li>
 

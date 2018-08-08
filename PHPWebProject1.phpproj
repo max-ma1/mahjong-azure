@@ -10604,7 +10604,7 @@
     <Compile Include="game\login.php" />
     <Compile Include="game\start.php" />
     <Compile Include="game\user_support.php" />
-    <Compile Include="mahjong-org.azurewebsites.net\max\.ftpquota" />
+    <Compile Include="mahjong-ca.azurewebsites.net\max\.ftpquota" />
     <Compile Include="score\round1.html" />
     <Compile Include="score\round2.html" />
     <Compile Include="score\round3.html" />
@@ -14263,8 +14263,8 @@
     <Folder Include="game\uc_client" />
     <Folder Include="game\upload" />
     <Folder Include="game" />
-    <Folder Include="mahjong-org.azurewebsites.net\max" />
-    <Folder Include="mahjong-org.azurewebsites.net" />
+    <Folder Include="mahjong-ca.azurewebsites.net\max" />
+    <Folder Include="mahjong-ca.azurewebsites.net" />
     <Folder Include="score" />
     <Folder Include="training_apply\config" />
     <Folder Include="training_apply\controller" />

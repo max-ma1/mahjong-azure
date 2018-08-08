@@ -6,7 +6,7 @@
 
  *
 
- * @package mahjong-org.azurewebsites.net
+ * @package mahjong-ca.azurewebsites.net
 
  * @subpackage mahjong
 
@@ -64,7 +64,7 @@
 
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 
-<link href="http://www.mahjong-org.azurewebsites.net/favicon.ico" rel="shortcut icon">
+<link href="http://www.mahjong-ca.azurewebsites.net/favicon.ico" rel="shortcut icon">
 
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 
@@ -332,9 +332,9 @@
 
             <div class="m_cont">
 
-         	<a href="http://www.mahjong-org.azurewebsites.net/bbs/" class="a1"><span>论坛</span><i></i></a>
+         	<a href="http://www.mahjong-ca.azurewebsites.net/bbs/" class="a1"><span>论坛</span><i></i></a>
 
-            <a href="http://www.mahjong-org.azurewebsites.net/bbs/" class="a2 active"><span>论坛</span><i></i></a>
+            <a href="http://www.mahjong-ca.azurewebsites.net/bbs/" class="a2 active"><span>论坛</span><i></i></a>
 
             </div>
 

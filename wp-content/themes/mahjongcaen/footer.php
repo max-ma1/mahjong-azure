@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying the footer.
- * @package mahjong-org.azurewebsites.net
+ * @package mahjong-ca.azurewebsites.net
  * @subpackage mahjong
  * @since Mahjong-ca 1.0
  */
@@ -27,7 +27,7 @@
  <!--footer end-->
  </div>
 
- <div class="wrap" style="display:none;"><div class="bm_btn"><div class="hand_p"><a href="http://www.mahjong-org.azurewebsites.net/training_apply/index.php?lang=en" target="_blank">Click Here!</a></div><a href="http://www.mahjong-org.azurewebsites.net/training_apply/index.php?lang=en" target="_blank">Enroll Online</a></div></div>
+ <div class="wrap" style="display:none;"><div class="bm_btn"><div class="hand_p"><a href="http://www.mahjong-ca.azurewebsites.net/training_apply/index.php?lang=en" target="_blank">Click Here!</a></div><a href="http://www.mahjong-ca.azurewebsites.net/training_apply/index.php?lang=en" target="_blank">Enroll Online</a></div></div>
 
 <script src="<?php bloginfo( 'template_url' ); ?>/js/lang.js" type="text/javascript"></script>
 <?php wp_footer();?>
