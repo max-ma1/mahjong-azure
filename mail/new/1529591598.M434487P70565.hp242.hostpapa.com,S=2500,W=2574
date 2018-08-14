@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: mahjo873@hp242.hostpapa.com
+Received: from hp242.hostpapa.com
+	by hp242.hostpapa.com with LMTP id MCLaGS63K1ulEwEAU2vD3A
+	for <mahjo873@hp242.hostpapa.com>; Thu, 21 Jun 2018 10:33:18 -0400
+Return-path: <>
+Envelope-to: mahjo873@hp242.hostpapa.com
+Delivery-date: Thu, 21 Jun 2018 10:33:18 -0400
+Received: from mailnull by hp242.hostpapa.com with local (Exim 4.89_1)
+	id 1fW0eE-000Jpd-CJ
+	for mahjo873@hp242.hostpapa.com; Thu, 21 Jun 2018 10:33:18 -0400
+X-Failed-Recipients: max@vip.51.ca
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hp242.hostpapa.com>
+To: mahjo873@hp242.hostpapa.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1529591598-eximdsn-1219390572
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1fW0eE-000Jpd-CJ@hp242.hostpapa.com>
+Date: Thu, 21 Jun 2018 10:33:18 -0400
+
+--1529591598-eximdsn-1219390572
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  max@vip.51.ca
+    host smtp.antispamcloud.com [217.20.113.37]
+    SMTP error from remote mail server after end of data:
+    550 Subject contains invalid characters.
+
+--1529591598-eximdsn-1219390572
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hp242.hostpapa.com
+
+Action: failed
+Final-Recipient: rfc822;max@vip.51.ca
+Status: 5.0.0
+Remote-MTA: dns; smtp.antispamcloud.com
+Diagnostic-Code: smtp; 550 Subject contains invalid characters.
+
+--1529591598-eximdsn-1219390572
+Content-type: message/rfc822
+
+Return-path: <mahjo873@hp242.hostpapa.com>
+Received: from mahjo873 by hp242.hostpapa.com with local (Exim 4.89_1)
+	(envelope-from <mahjo873@hp242.hostpapa.com>)
+	id 1fW0dW-000Jdx-VX
+	for max@vip.51.ca; Thu, 21 Jun 2018 10:32:35 -0400
+To: max@vip.51.ca
+Subject: 【麻将大赛】报名者：（2018-06-21 10:06:33）
+X-PHP-Script: mahjong-ca.org/training_apply/index.php for 184.154.139.52, 162.158.74.106
+X-PHP-Filename: /home/mahjo873/public_html/training_apply/index.php REMOTE_ADDR: 162.158.74.106
+Message-Id: <E1fW0dW-000Jdx-VX@hp242.hostpapa.com>
+From: mahjo873@hp242.hostpapa.com
+Date: Thu, 21 Jun 2018 10:32:34 -0400
+X-OutGoing-Spam-Status: No, score=4.2
+
+[姓名] 
+[年龄] 
+[电话] 
+[邮件] 
+[地址] 
+[水平] 
+[地点] 
+[建议] N/A
+[语种] zh
+
+
+--1529591598-eximdsn-1219390572--

@@ -1,0 +1,36 @@
+drwxr-xr-x   22 mahjong    mahjong          4096 Jun 19 18:59 .
+drwxr-xr-x   22 mahjong    mahjong          4096 Jun 19 18:59 ..
+-rw-------    1 mahjong    mahjong            37 Mar 29 20:25 .bash_history
+-rw-r--r--    1 mahjong    mahjong            33 Jul 28  2013 .bash_logout
+-rw-r--r--    1 mahjong    mahjong           176 Jul 28  2013 .bash_profile
+-rw-r--r--    1 mahjong    mahjong           124 Jul 28  2013 .bashrc
+drwxrwx--x    6 mahjong    mahjong            51 Oct 24  2017 .cagefs
+drwxr-xr-x    2 mahjong    mahjong            26 Jan 10 01:09 .cl.selector
+-rw-r-----    1 mahjong    mahjong            23 May 23 15:39 .contactemail
+drwxr-xr-x    3 mahjong    mahjong            24 Oct 19  2017 .cpaddons
+drwx------    5 mahjong    mahjong           160 Jun 20 02:37 .cpanel
+drwx------    4 mahjong    mahjong            70 May 28 15:57 .cphorde
+-rw-r--r--    1 mahjong    mahjong            14 Mar 29 19:54 .dns
+-rw-------    1 mahjong    mahjong            17 Jun 20 02:36 .ftpquota
+drwxr-x---    2 mahjong    99                  6 Jul 28  2013 .htpasswds
+-rw-------    1 mahjong    mahjong           521 Jun 20 02:34 .lastlogin
+drwxr-xr-x    4 mahjong    mahjong            39 Jul 28  2013 .mozilla
+drwxr-xr-x    2 mahjong    mahjong           231 Jun 20 02:21 .razor
+drwx--x--x    4 mahjong    mahjong            47 Dec  4  2015 .softaculous
+drwx------    2 mahjong    mahjong            60 Jun 17 06:49 .spamassassin
+-rw-r--r--    1 mahjong    mahjong             0 May 23 15:25 .spamassassinenable
+drwx------    2 mahjong    mahjong            28 Nov  8  2016 .subaccounts
+drwx------    2 mahjong    mahjong             6 Mar 29 19:51 .trash
+-rw-r--r--    1 mahjong    mahjong           658 Jul 28  2013 .zshrc
+lrwxrwxrwx    1 mahjong    mahjong            33 Nov 29  2014 access-logs -> /usr/local/apache/domlogs/mahjong
+-rw-------    1 mahjong    mahjong     923051216 Jun 19 18:07 backup-6.19.2018_18-04-59_mahjong.tar.gz
+drwxr-xr-x    2 mahjong    mahjong          8192 Oct 24  2017 cache
+-rw-r-----    1 mahjong    mahjong             1 Aug  4  2013 cpbackup-exclude.conf
+drwxr-x---    3 mahjong    12                 59 Jun 20 02:36 etc
+drwx------    2 mahjong    mahjong          4096 Jun 14 08:15 logs
+drwxr-x--x   11 mahjong    mahjong          4096 May 28 15:57 mail
+drwxr-x---    3 mahjong    mahjong            22 Jul 28  2013 public_ftp
+drwxr-x---   13 mahjong    99               4096 Jun  8 15:40 public_html
+drwxr-xr-x    5 mahjong    mahjong            77 Jun  1 01:52 ssl
+drwxr-xr-x    8 mahjong    mahjong           198 Mar 29 20:02 tmp
+lrwxrwxrwx    1 mahjong    mahjong            11 Nov 29  2014 www -> public_html
