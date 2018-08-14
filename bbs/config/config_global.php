@@ -5,8 +5,8 @@ $_config = array();
 
 // ----------------------------  CONFIG DB  ----------------------------- //
 $_config['db']['1']['dbhost'] = 'mahjongsite.mysql.database.azure.com';
-$_config['db']['1']['dbuser'] = 'mahjong_bbsadmin';
-$_config['db']['1']['dbpw'] = 'mahjong@bbs@51';
+$_config['db']['1']['dbuser'] = 'max@mahjongsite';
+$_config['db']['1']['dbpw'] = '400@University';
 $_config['db']['1']['dbcharset'] = 'utf8';
 $_config['db']['1']['pconnect'] = '0';
 $_config['db']['1']['dbname'] = 'mahjong_bbs';

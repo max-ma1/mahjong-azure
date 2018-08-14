@@ -1,7 +1,7 @@
 <?php 
 define('UC_DBHOST', 'mahjongsite.mysql.database.azure.com');
-define('UC_DBUSER', 'mahjong_bbsadmin');
-define('UC_DBPW', 'mahjong@bbs@51');
+define('UC_DBUSER', 'max@mahjongsite');
+define('UC_DBPW', '400@University');
 define('UC_DBNAME', 'mahjong_bbs');
 define('UC_DBCHARSET', 'utf8');
 define('UC_DBTABLEPRE', 'pre_ucenter_');
