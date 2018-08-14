@@ -38,7 +38,7 @@ define('UC_DBCHARSET', 'utf8');
 define('UC_DBTABLEPRE', '`mahjong_bbs`.pre_ucenter_');
 define('UC_DBCONNECT', '0');
 define('UC_KEY', '\"}2jEd/14VCYk0e');
-define('UC_API', 'http://www.mahjong-ca.org/bbs/uc_server');
+define('UC_API', 'https://www.mahjong-ca.org/bbs/uc_server');
 define('UC_CHARSET', 'utf-8');
 define('UC_IP', '');
 define('UC_APPID', '2');
