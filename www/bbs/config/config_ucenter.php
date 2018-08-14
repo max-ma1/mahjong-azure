@@ -3,7 +3,7 @@
 
 define('UC_CONNECT', 'mysql');
 
-define('UC_DBHOST', 'localhost');
+define('UC_DBHOST', 'mahjongsite.mysql.database.azure.com');
 define('UC_DBUSER', 'mahjong_bbsadmin');
 define('UC_DBPW', 'mahjong@bbs@51');
 define('UC_DBNAME', 'mahjong_bbs');

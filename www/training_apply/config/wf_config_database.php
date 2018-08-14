@@ -11,13 +11,13 @@ define('WF_REMOTE_DATABASE', true); //设置这里来决定使用“远程”或
 
 if (WF_REMOTE_DATABASE) {
     //远程
-    $WF_CONFIG['db_host'] = 'localhost';
+    $WF_CONFIG['db_host'] = 'mahjongsite.mysql.database.azure.com';
     $WF_CONFIG['db_user'] = 'mahjong_51max';
     $WF_CONFIG['db_pass'] = 'E7Tlb@?GQK6Q';
     $WF_CONFIG['db_name'] = 'mahjong_baoming';
 } else {
     //本地
-    $WF_CONFIG['db_host'] = 'localhost';
+    $WF_CONFIG['db_host'] = 'mahjongsite.mysql.database.azure.com';
     $WF_CONFIG['db_user'] = 'root';
     $WF_CONFIG['db_pass'] = '123456';
     $WF_CONFIG['db_name'] = 'majiang_baoming';
