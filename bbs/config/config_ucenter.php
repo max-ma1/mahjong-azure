@@ -28,7 +28,7 @@ define('UC_CHARSET', 'utf-8');
 
 define('UC_KEY', 'y7i4v5B1w9D5V9J2L773BaT398W9m2jfd132se93E5A8P0GeLe1119Q0qfD8T00d');
 
-define('UC_API', 'http://www.mahjong-org.azurewebsites.net/bbs/uc_server');
+define('UC_API', 'http://www.mahjong-ca.azurewebsites.net/bbs/uc_server');
 
 define('UC_APPID', '1');
 
